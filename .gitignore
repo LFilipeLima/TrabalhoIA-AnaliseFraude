@@ -1,0 +1,17 @@
+.vscode
+.dist
+.venv
+
+documents/obt.parquet
+documents/obt_train.parquet
+documents/obt_validation.parquet
+
+context/*
+
+# Dados locais; mantém apenas a estrutura no Git
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+__pycache__/
