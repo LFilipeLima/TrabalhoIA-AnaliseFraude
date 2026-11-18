@@ -1,4 +1,4 @@
-# Trabalho 3 de TI326 - Inteligência Artificial
+# Detectação de Transações Fradulentas com Machine Learning - Inteligência Artificial
 
 ## 🧑‍🎓 Integrantes
 
